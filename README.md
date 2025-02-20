@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriyapeddakama
 - 👀 I’m interested in data analytics and machine learning
-- 📫 How to reach me: e-mail me at speddaka@andrew.cmu.edu!
+- 📫 How to reach me: e-mail me at speddaka@andrew.cmu.edu or connect with me on https://www.linkedin.com/in/shriyapeddakama/
 - 😄 Pronouns: she/her
 
 <!---
