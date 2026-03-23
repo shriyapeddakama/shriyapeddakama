@@ -1,6 +1,9 @@
+<div align="center">
 
+**Shriya Peddakama** · [Portfolio](https://shriyapeddakama.github.io) · [LinkedIn](https://www.linkedin.com/in/shriyapeddakama/) 
+</div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=4000&pause=1500&color=555555&background=FF8DEA00&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Shriya+%F0%9F%91%8B" alt="Typing SVG - Hey there! I'm Shriya 👋">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=4000&pause=1500&color=555555&background=FF8DEA00&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Shriya+%F0%9F%91%8B" alt="Shriya Peddakama">
 </p>
 <hr>
  
